@@ -2,7 +2,7 @@
 
 This is a starting point for anyone who wishes to create their very own reference cheat sheet, whether it be HTML, CSS, JavaScript or any other coding language you would like to pursue. Although there are great places to learn HTML & CSS, the best reference for yourself is often your own notes and projects.
 
-View Quote Generator [Demo](https://wpbc.github.io/html-cheatsheet/)
+View HTML Cheatsheet [Demo](https://wpbc.github.io/html-cheatsheet/)
 
 ### Installation
 
